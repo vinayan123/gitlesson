@@ -7,4 +7,7 @@ first contribution
 
 more changes in original..
 
-ha ha ha more updates what do u do now??
+more changes in original..
+
+commit1
+contrib commit 1
