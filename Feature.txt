@@ -3,4 +3,7 @@ More work is being done on this branch.
 more collaboration from original
 This line added while the pull request was in process.
 another commit that the pull request does not know?
+now trying out git merge
 additions from remote original
+trying a new pull request.
+try a push again..
