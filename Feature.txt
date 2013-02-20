@@ -7,3 +7,4 @@ now trying out git merge
 additions from remote original
 trying a new pull request.
 try a push again..
+edit1
